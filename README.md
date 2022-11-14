@@ -4,17 +4,17 @@ This is a solution to the [HTML-Git-CSS Challenge from Course 1]. Frontend Mento
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Continued development](#continued-development)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
+-   [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -46,9 +46,13 @@ GIVEN a webpage meets accessibility standards
 ✔️THEN I find a concise, descriptive title
 ```
 
+### Screenshot
+
+-   Horizeon Screenshot [website](./assets/images/screenshot.JPG?raw=true 'Screenshot')
+
 ### Links
 
-- Live Site URL: [Github](https://isayahdurst.github.io/HTML-CSS-Git-Code-Refactor/)
+-   Live Site URL: [Github](https://isayahdurst.github.io/HTML-CSS-Git-Code-Refactor/)
 
 ## My process
 
@@ -58,8 +62,8 @@ To complete this challenge, I started by editing the title of the webpage so tha
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+-   Semantic HTML5 markup
+-   CSS custom properties
 
 ### What I learned
 
@@ -71,8 +75,8 @@ I would like to continue focusing on refining these skills as I go so that my we
 
 ## Author
 
-- Github - [@isayahdurst](https://www.github.com/isayahdurst)
-- Twitter - [@isayahdurst](https://www.twitter.com/isayahdurst)
+-   Github - [@isayahdurst](https://www.github.com/isayahdurst)
+-   Twitter - [@isayahdurst](https://www.twitter.com/isayahdurst)
 
 ## Acknowledgments
 
